@@ -34,7 +34,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/nodoubttome/skin
 ## Model Summary
 Because this is a multi-class classification problem, we used a Convolution Neural Network (CNN) consisting of 16 layers to train the model. We also used other Python libraries such as Tensorflow, Pandas, Matplotlib, etc., for image preprocessing, data visualizations, and other ancillary statistical analysis, and the resulting model takes about 45 minutes to train.
 
-** For additional information, please read the project article on **[Medium](https://medium.com/@kennethodoh/skin-cancer-classification-using-ai-45cdf70e808c).
+__For additional information, please read the project article on [Medium](https://medium.com/@kennethodoh/skin-cancer-classification-using-ai-45cdf70e808c).__
 
 ## Contributors
 
