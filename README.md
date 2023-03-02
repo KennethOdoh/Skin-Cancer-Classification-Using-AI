@@ -1,5 +1,7 @@
 # Skin Cancer Detection and Classification Using Machine Learning
 
+<img src="https://miro.medium.com/v2/resize:fit:640/1*daa7-pWyR8mQtQSnjVLwFg.gif">
+
 ## Introduction
 This project aims to apply `Artificial Intelligence` in the `detection` and `classification` of skin cancers.
 Just like many other cancer types, skin cancer when detected early, can be cured through surgical interventions. However, early detection remains a challenge for the following reasons:
