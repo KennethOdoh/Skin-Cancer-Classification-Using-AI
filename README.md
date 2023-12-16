@@ -2,6 +2,18 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:640/1*daa7-pWyR8mQtQSnjVLwFg.gif">
 
+## Geoff
+
+```
+python3 -m venv myenv
+source myenv/bin/activate
+pip install tensorflow-macos
+pip install tensorflow-metal  # for GPU support on M1/M2 Macs
+pip install -r requirements.txt
+pip install notebook
+jupyter notebook
+```
+
 ## Introduction
 This project aims to apply `Artificial Intelligence` in the `detection` and `classification` of skin cancers.
 Just like many other cancer types, skin cancer when detected early, can be cured through surgical interventions. However, early detection remains a challenge for the following reasons:
